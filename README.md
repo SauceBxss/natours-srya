@@ -1,1 +1,1 @@
-# natours-srya
+# tour-project
